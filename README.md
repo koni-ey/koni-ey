@@ -2,9 +2,9 @@
 Huhu, I'm Konstantin 👋
 </h3>
 
-<h2 align="center">
-I'm an electrical engineer 🔌 and hobby-coder 💻.
-</h2> 
+<h1 align="center">
+Electrical Engineer 🔌 and Hobby-Coder 💻
+</h1> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/konstantin-eyhorn-66771917b/"><img src="https://github.com/koni-ey/koni-ey/raw/main/images/linkedin-fill.png" alt="Konstantin Eyhorn | LinkedIn" width="25px"/></a>
