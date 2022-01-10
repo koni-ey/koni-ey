@@ -6,12 +6,14 @@ Huhu, I'm Konstantin 👋
 I'm an electrical engineer 🔌 and hobby-coder 💻.
 </h2> 
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/konstantin-eyhorn-66771917b/"><img align="left" src="https://github.com/koni-ey/koni-ey/raw/main/images/linkedin-fill.png" alt="Konstantin Eyhorn | LinkedIn" width="21px"/></a>
-
-<a href="https://twitter.com/koni_ey"><img align="left" src="https://github.com/koni-ey/koni-ey/raw/main/images/twitter-fill.png" alt="Koni Ey| twitter" width="21px"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/konstantin-eyhorn-66771917b/"><img src="https://github.com/koni-ey/koni-ey/raw/main/images/linkedin-fill.png" alt="Konstantin Eyhorn | LinkedIn" width="25px"/></a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+<a href="https://twitter.com/koni_ey"><img src="https://github.com/koni-ey/koni-ey/raw/main/images/twitter-fill.png" alt="Koni Ey| twitter" width="25px"/></a>
 </br>
+</p> 
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
