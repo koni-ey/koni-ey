@@ -22,7 +22,7 @@ Electrical and Software Engineer 🔌💻
 ### APIs
  - 🎯 [PDC Order of Merit API](https://rapidapi.com/koni-ey/api/pdc-order-of-merit) - Provides the current official PDC World Ranking (Darts World Ranking)
  - 8️⃣ [WPBSA Snooker World Ranking API](https://rapidapi.com/koni-ey/api/wpbsa-snooker-world-ranking) - Provides the current official WPBSA Snooker World Ranking 
- - 🗺️ [Google Maps Short-URL to GEO-Coordinates](https://rapidapi.com/koni-ey/api/google-maps-short-url-to-geo-coordinates/) - Decodes Google Maps shortened URLs to GEO-Coordinates and Place
+ - 🗺️ [Google Maps Short-URL to GEO-Coordinates](https://rapidapi.com/koni-ey/api/google-maps-short-url-to-geo-coordinates/) - Converts Google Maps URLs to Geo-Locations
 
 ### Side Projects
  - 🍻 [Drinklist](https://github.com/koni-ey/drinklist) - Cross-Plattform Flutter App for self served drinking occasions
